@@ -1,0 +1,13 @@
+#cv-form{
+  
+}
+#cv-template{
+    display: none;
+}
+.cks{
+    width: 300px;
+    border-radius: 50%;
+}
+.backgr{
+    background-color:lightblue;
+}
